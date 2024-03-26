@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👾
+welcome to my space. i'm a data enthusiast and an avid learner. currently, i'm working on my SQL and Python skills as well as on different data analytics projects, i'm eager to expand my portafolio. also, i love reading 🤓
 <!--
 **itorrescardenas/itorrescardenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
